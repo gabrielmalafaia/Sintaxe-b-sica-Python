@@ -1,1 +1,1 @@
-# Sintaxe-b-sica-Python
+# Sintaxe-básica-Python
