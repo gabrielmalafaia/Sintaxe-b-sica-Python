@@ -11,4 +11,5 @@ while opcao != 0:
     elif opcao == 2:
         print("Exibindo o extrato... ")
 else:
-    print("Obrigado por usar noss sistema bancário, até logo")
+
+    print("Obrigado por usar nossp sistema bancário, até logo")

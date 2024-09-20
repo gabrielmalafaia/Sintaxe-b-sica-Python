@@ -27,13 +27,14 @@
 #     print(numero, end=" ")
 
 while True:
-    numero = int(input("Informe m número: "))
+    numero = int(input("Informe um número: "))
 
-    if numero % 2 == 0:
-        continue
-            # se não tiver um break nesse caso ele criará um loop infinito
-            # sempre deve utilizar o break antes do continue dependendo do caso
     if numero == 10:
         break
-
+            # se não tiver um break nesse caso ele criará um loop infinito
+            # sempre deve utilizar o break antes do continue dependendo do caso
+    if numero % 2 == 0:
+        
+        continue
+    
     print(numero)
